@@ -1,2 +1,3 @@
-# lookImage
-This is a plug-in for viewing picture
+# all-kinds
+
+VSCode插件开发
